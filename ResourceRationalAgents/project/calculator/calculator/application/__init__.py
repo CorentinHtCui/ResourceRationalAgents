@@ -1,0 +1,1 @@
+"""Calculator application use cases."""

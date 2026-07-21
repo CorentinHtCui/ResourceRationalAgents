@@ -1,0 +1,1 @@
+"""Calculator acceptance tests."""
